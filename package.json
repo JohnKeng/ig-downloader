@@ -1,0 +1,16 @@
+{
+  "name": "ig-downloader",
+  "version": "1.0.0",
+  "description": "以原生 Node.js 為主，配合 `npx playwright` 進行無頭瀏覽，從 `ig.txt` 讀取帳號並下載各帳號貼文圖片至各自資料夾。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "playwright": "^1.55.0"
+  }
+}
